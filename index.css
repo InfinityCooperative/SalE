@@ -3,7 +3,16 @@ body{
     text-align: center;
 }
 .cabecalho{
-    background-color: rgb(106, 241, 223);
+    background:url(imagens/verde.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    height: auto;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
@@ -16,7 +25,11 @@ body{
     height: 200px;
 }
 .rodape{
-    background-color: rgb(106, 241, 223);
+   background:url(imagens/verde.png) center  center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
