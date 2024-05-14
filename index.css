@@ -3,7 +3,7 @@ body{
     text-align: center;
 }
 .cabecalho{
-    background:url(imagens/verde.png) center  center no-repeat fixed;
+    background:url(imagens/verde.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -11,13 +11,9 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    border-radius: 5px;
+    margin: -10px -7px 0px -8px;
     height: auto;
-    border-width: 0.7px;
-    border-style: solid;
-    border-color: #000;
-    border-radius: 5px;
-    height: auto;
+
 }
 .voltar{
       height: 35px;
@@ -35,12 +31,12 @@ body{
     height: 400px;
 }
 .rodape{
-   background:url(imagens/verde.png) center  center no-repeat fixed;
+   background:url(imagens/verde.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    border-radius: 5px;
+    margin: 0px -7px -11px -8px;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
